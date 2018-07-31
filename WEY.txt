@@ -1,0 +1,2 @@
+('WEY VV7 2017款 2.0T 旗舰型', 'https://image.guazistatic.com/gz01180630/17/06/bee9e1d1ff6eb045e2ef48c21a57763f.jpg', '2018年', '18.00万', '20.50万')
+('WEY VV7 2017款 2.0T 旗舰型', 'https://image1.guazistatic.com/qn18071010395584cb83da3654f5fa19f32273c791d7e6.jpg', '0.9万公里', '16.50万', '20.50万')

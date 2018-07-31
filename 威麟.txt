@@ -1,0 +1,1 @@
+('威麟V5 2012款 2.0L 自动豪华型', 'https://image1.guazistatic.com/qn18070612132253186e602fafccee18b684e7da1baba9.jpg', '2013年', '3.30万', '13.50万')

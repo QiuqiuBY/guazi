@@ -1,0 +1,2 @@
+('观致3 2016款 三厢 1.6L 自动致享型', 'https://image.guazistatic.com/gz01180426/19/53/11cd5cf559b2af7bae0e530cbd64e9f0.jpg', '2017年', '8.00万', '11.70万')
+('观致3 2015款 都市SUV 1.6T 自动型动派', 'https://image.guazistatic.com/gz01180402/11/46/218eacfb97279ff7f90ff1ec077a2bea.jpg', '1.8万公里', '8.08万', '17.40万')

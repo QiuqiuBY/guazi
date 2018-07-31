@@ -1,0 +1,7 @@
+('林肯大陆 2017款 3.0T 四驱总统版', 'https://image.guazistatic.com/gz01180609/09/40/1bcc018751811ed82322377bf9551f73.jpg', '2017年', '51.00万', '66.60万')
+('林肯大陆 2017款 2.0T 两驱尊雅版', 'https://image.guazistatic.com/gz01180524/19/55/084c4dc94e2ede92d1587b61b5a57a0c.jpg', '1.9万公里', '35.00万', '48.20万')
+('林肯大陆 2017款 2.0T 两驱尊享版', 'https://image.guazistatic.com/gz01180423/19/54/2fb527488b8065ac52a5fe00b18eeb32.jpg', '2017年', '36.80万', '45.50万')
+('林肯MKZ 2014款 2.0T 尊雅版', 'https://image1.guazistatic.com/qn18052101285144011e6c45b2e8d26c3f5eb43fa92939.jpg', '1.5万公里', '20.60万', '38.00万')
+('林肯MKX 2017款 2.0T 两驱尊享版', 'https://image.guazistatic.com/gz01180522/14/21/e8d3af17a1672f1fb4b6a8d1711f6233.jpg', '2018年', '31.50万', '48.80万')
+('林肯MKX 2017款 2.7T 四驱尊耀版', 'https://image1.guazistatic.com/qn1806282147295e83e6d653ad80689c7c31a40898a777.jpg', '1.0万公里', '47.00万', '60.80万')
+('林肯MKX 2015款 2.7T 四驱尊耀版', 'https://image1.guazistatic.com/qn17100816224557d49b176632c4f194a379406874925d.jpg', '2015年', '48.00万', '60.80万')

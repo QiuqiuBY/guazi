@@ -1,0 +1,5 @@
+('开瑞K50 2015款 1.5L 手动豪华型', 'https://image.guazistatic.com/gz01180621/10/52/58c54238a7e9bd073a71fee5b6770762.jpg', '2016年', '3.50万', '6.80万')
+('开瑞K50 2015款 1.5L 手动基本型', 'https://image1.guazistatic.com/qn180503145549607bbc7b6eb44e2d5c825db423b0b3f8.jpg', '3.2万公里', '2.80万', '5.30万')
+('开瑞K50 2015款 1.5L 手动舒适型', 'https://image.guazistatic.com/gz01180628/13/03/1ece6b9939234bb789dbf5910a38ce68.jpg', '2016年', '2.98万', '6.30万')
+('开瑞K50 2015款 1.5L 自动舒适型', 'https://image.guazistatic.com/gz01180429/15/39/eca25c317f578dc899d9fbc5006b3813.jpg', '3.5万公里', '4.60万', '7.00万')
+('开瑞优优 2010款 1.0T柴油标准型', 'https://image.guazistatic.com/gz01180503/10/45/f6fbbfe50832028f0c4b041930dc7d33.jpg', '2016年', '1.30万', '5.60万')

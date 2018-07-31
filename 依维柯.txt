@@ -1,0 +1,8 @@
+('依维柯Turbo Daily 2014款 2.5T-A35 NJ6484ACM47Z4', 'https://image.guazistatic.com/gz01180530/11/23/0518017420f02a52943225251eaa521a.jpg', '2016年', '7.80万', '11.70万')
+('依维柯Power Daily 2017款 2.5T经典A32客车中顶6-7座47Z5', 'https://image1.guazistatic.com/qn180608170251f80c92ec49315525feb0245f4e3fe627.jpg', '6.8万公里', '8.50万', '15.20万')
+('依维柯Power Daily 2012款 2.5T-A32基本型', 'https://image.guazistatic.com/gz01180703/10/17/cbf719e8e257fa1c647dda447211e20c.jpg', '2016年', '9.30万', '15.20万')
+('依维柯Turbo Daily 2017款 2.5T A35客车中顶5-7座47Z5', 'https://image1.guazistatic.com/qn1807092148528f55468519232ff2ea09a1c1e1f54573.jpg', '5.2万公里', '7.60万', '12.80万')
+('依维柯Turbo Daily 2012款 2.5T-A35物流1版中顶', 'https://image1.guazistatic.com/qn1712081145120952e4fbbbb0a6be7f5991cba6e290e1.jpg', '2017年', '6.80万', '11.90万')
+('依维柯Power Daily 2013款 2.5T-V39 箱货高顶', 'https://image1.guazistatic.com/qn171214224645075b4579b6d7525865174ea64ff38288.jpg', '3.9万公里', '8.60万', '16.70万')
+('依维柯Power Daily 2017款 2.8T尊享V39厢货高顶43S5', 'https://image.guazistatic.com/gz01180623/18/11/e6bbf2ca7e1e9614a159f84661e47210.jpg', '2016年', '13.50万', '17.50万')
+('依维柯Turbo Daily 2014款 2.5T-A35 NJ6484ACM47Z4', 'https://image.guazistatic.com/gz01180603/15/35/da87ef7a8b94f4908907680de47cd99d.jpg', '1.6万公里', '7.30万', '11.70万')

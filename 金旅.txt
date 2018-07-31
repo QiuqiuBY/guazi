@@ -1,0 +1,3 @@
+('金旅海狮 2010款 2.8T标准轴高级版GW2.8TC-2', 'https://image.guazistatic.com/gz01180416/19/05/2b7bd42f21cc66643260722e54b28e1d.jpg', '2014年', '5.00万', '9.00万')
+('金旅海狮 2010款 2.0L标准轴高级版V19', 'https://image.guazistatic.com/gz01180626/15/44/f68d672a42cafc0ec15ff95561f9a8eb.jpg', '8.0万公里', '5.50万', '7.90万')
+('金旅海狮 2010款 2.0L标准轴高级版V19', 'https://image1.guazistatic.com/qn180326101558f33cdf7d09c657c02ea38bb5d47cfa53.jpg', '2015年', '6.00万', '7.90万')

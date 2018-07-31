@@ -1,0 +1,5 @@
+('川汽野马野马F12 2014款 1.5L 手动', 'https://image1.guazistatic.com/qn18010214383324a805e3e1d6abcef5d58f7098a5e501.jpg', '2014年', '2.20万', '5.40万')
+('川汽野马野马T70 2017款 1.8L 手动舒适型', 'https://image1.guazistatic.com/qn1804230008206143dd0db1cb261baf292e94985beee7.jpg', '2.8万公里', '5.40万', '8.20万')
+('川汽野马野马T70 2015款 改款 1.8T CVT优雅型', 'https://image1.guazistatic.com/qn171222173035972ee474d3abd8d43f79fb4401949375.jpg', '2017年', '9.48万', '11.90万')
+('川汽野马野马T70 2015款 改款 1.8T CVT优雅型', 'https://image1.guazistatic.com/qn1712122228321be7634db527d0dd0bcbaa9cb8efb31e.jpg', '0.5万公里', '6.50万', '11.90万')
+('川汽野马 野马T70 2016款 1.8T CVT优雅型', 'https://image1.guazistatic.com/qn18070214403210256d0c9e61e857dd4431942cf43b60.jpg', '2017年', '6.50万', '11.90万')

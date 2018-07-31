@@ -1,0 +1,1 @@
+('GMC SAVANA 2011款 6.0L 商务之星7座', 'https://image1.guazistatic.com/qn1805051320006614084a9b0d32927e5deb73f85116c1.jpg', '2011年', '26.00万', '122.70万')

@@ -1,0 +1,2 @@
+('兰博基尼Gallardo 2008款 LP 560-4', 'https://image1.guazistatic.com/qn180520183530f723efce78a51d69ec2911f133238536.jpg', '2009年', '115.00万', '421.20万')
+('兰博基尼Gallardo LP 560-4 Bicolore', 'https://image1.guazistatic.com/qn1806091639405fff04b9724b0028e7a12e1e1a6aaf5e.jpg', '2.4万公里', '145.00万', '432.00万')

@@ -1,0 +1,7 @@
+('北汽绅宝 绅宝X65 2015款 2.0T 自动精英型', 'https://image.guazistatic.com/gz01180605/11/16/4ec1627a659b7ec96e87e7cabaac559e.jpg', '2016年', '6.50万', '14.10万')
+('北汽绅宝 绅宝X25 2015款 1.5L 自动精英型', 'https://image.guazistatic.com/gz01180609/11/29/b68edbe7cf8eb1064f86d1086e25a9f4.jpg', '4.8万公里', '4.50万', '7.50万')
+('北汽绅宝 绅宝D50 2014款 1.5L 手动标准版', 'https://image.guazistatic.com/gz01180609/16/42/7fc5a41c8ec2428734b483d571cdb730.jpg', '2016年', '3.50万', '8.10万')
+('北汽绅宝 绅宝X25 2015款 1.5L 自动精英型', 'https://image.guazistatic.com/gz01180603/13/10/28ebaf9e63efb02fdc277a2bd544fc52.jpg', '1.3万公里', '6.00万', '7.50万')
+('北汽绅宝 绅宝D50 2015款 1.5L CVT标准超值导航版', 'https://image1.guazistatic.com/qn1807060043132d56565a31a49a2d6b7b220e554524a1.jpg', '2015年', '4.80万', '9.70万')
+('北汽绅宝 绅宝X25 2015款 1.5L 手动精英型', 'https://image1.guazistatic.com/qn1807061230429902817ee0bb8ff1a1ad235dea32ef95.jpg', '6.6万公里', '4.00万', '6.90万')
+('北汽绅宝 绅宝D50 2014款 1.5L 手动舒适版', 'https://image.guazistatic.com/gz01180615/21/05/500b2dd24f1f532442ff9950b01f71aa.jpg', '2017年', '3.50万', '8.90万')

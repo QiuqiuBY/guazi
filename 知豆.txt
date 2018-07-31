@@ -1,0 +1,2 @@
+('知豆D2 2015款 D2', 'https://image1.guazistatic.com/qn180706150308cc8bbac134a30d68559097f734471614.jpg', '2015年', '3.00万', '17.20万')
+('知豆 2014款 标准型', 'https://image1.guazistatic.com/qn171114110558ffd905f9808e274af80c699a166aae99.jpg', '3.8万公里', '3.00万', '11.80万')

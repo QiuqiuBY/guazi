@@ -1,0 +1,1 @@
+('法拉利California T 2012款 4.3L 标准型', 'https://image1.guazistatic.com/qn170424194547d492192c9a75df7f807f5d285edfa1e6.jpg', '2014年', '200.00万', '383.00万')

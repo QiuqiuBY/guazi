@@ -1,0 +1,2 @@
+('欧宝赛飞利 2013款 1.4T 五座舒适型', 'https://image.guazistatic.com/gz01180404/13/35/643995e311b68cf12980f53407f0fa66.jpg', '2014年', '14.50万', '29.30万')
+('欧宝 赛飞利 2010款 1.8L MTA', 'https://image.guazistatic.com/gz01180521/12/57/f022d40344ed5367dbff12ac017fcee4.jpg', '2.9万公里', '8.00万', '29.20万')

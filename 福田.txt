@@ -1,0 +1,5 @@
+('福田 蒙派克E 2014款 2.0L财富快车经典版简配4Gi-VVT', 'https://image1.guazistatic.com/qn180614093608c4d88476465f830b1a4dce2543074cd6.jpg', '2015年', '4.95万', '8.90万')
+('福田 蒙派克E 2017款 2.0L新快运长轴4Q20M', 'https://image1.guazistatic.com/qn1807051353549bba6318bc3328c3b363de4a942a7ea9.jpg', '5.9万公里', '6.98万', '8.10万')
+('福田 风景 2014款 2.0L快运标准型长轴版低顶4Q20M', 'https://image.guazistatic.com/gz01180703/15/25/9f655b2a3df03c38b0c6aae92d989fd7.jpg', '2018年', '4.99万', '7.80万')
+('福田 蒙派克E 2016款 2.0L商运版 4G634G63', 'https://image1.guazistatic.com/qn18070610071462add83e08c236926c27173cbba69372.jpg', '1.1万公里', '6.70万', '9.50万')
+('福田 蒙派克E 2014款 2.5T财富快车经典版4JB1T', 'https://image.guazistatic.com/gz01180629/12/29/04366401192b9b410613f0b3e589ea85.jpg', '2016年', '5.30万', '12.20万')

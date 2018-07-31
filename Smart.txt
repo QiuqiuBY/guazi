@@ -1,0 +1,8 @@
+('Smartsmart forfour 2016款 1.0L 激情版', 'https://image1.guazistatic.com/qn18051509522333e2352cb2c7521ac1d4829877e5536b.jpg', '2017年', '10.50万', '14.70万')
+('Smart smart fortwo 2015款 1.0L 52千瓦硬顶激情版', 'https://image1.guazistatic.com/qn18070919074537a1d07b5cdff447c2737d383ce49d37.jpg', '2.6万公里', '7.80万', '13.80万')
+('Smartsmart fortwo 2012款 1.0 MHD 敞篷激情版', 'https://image.guazistatic.com/gz01180426/15/49/543f4d03e8602e542cbd3fd58c9cbb4d.jpg', '2016年', '6.50万', '18.20万')
+('Smartsmart fortwo 2012款 1.0 MHD 硬顶标准版', 'https://image1.guazistatic.com/qn180116185311eb085368ec7f7160ea804e6f2e64ebcc.jpg', '3.4万公里', '6.50万', '12.50万')
+('Smartsmart fortwo 2009款 1.0 MHD 硬顶 style版', 'https://image1.guazistatic.com/qn1712041744258209e0cbd4775b941f23f51c642a56ca.jpg', '2014年', '5.50万', '19.10万')
+('Smart smart fortwo 2012款 1.0 MHD 硬顶标准版', 'https://image1.guazistatic.com/qn18071010293420b5397e8c32d220af26b3a0ba9443d6.jpg', '3.7万公里', '6.30万', '12.50万')
+('Smart smart fortwo 2010款 1.0 硬顶 pure版', 'https://image.guazistatic.com/gz01180617/09/55/7cf77932253124433dc414ddcdb4cb54.jpg', '2014年', '4.49万', '14.60万')
+('Smartsmart fortwo 2012款 1.0 MHD 硬顶标准版', 'https://image.guazistatic.com/gz01180423/15/55/728dc7a3c22750dc2cdd0a46b197e47a.jpg', '3.7万公里', '5.40万', '12.50万')

@@ -1,0 +1,1 @@
+('阿尔法·罗密欧 Stelvio 2017款 2.0T 280HP 豪华版', 'https://image1.guazistatic.com/qn1807051941095a9a6bd70765181fdc0e53b0cf948bd0.jpg', '2017年', '41.50万', '49.60万')

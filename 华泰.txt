@@ -1,0 +1,5 @@
+('华泰圣达菲经典 2012款 2.0T 柴油手动两驱飓风型', 'https://image1.guazistatic.com/qn180512211309aa5e769bf174814e77325feca3add2ea.jpg', '2012年', '4.45万', '10.80万')
+('华泰 特拉卡 2010款 T9 2.4L 手动四驱豪华型', 'https://image1.guazistatic.com/qn180710101104de6a726618996e0dd0d7ded01ff4f468.jpg', '7.2万公里', '3.80万', '12.80万')
+('华泰 圣达菲 2016款 1.5T 汽油自动两驱智享i3型', 'https://image.guazistatic.com/gz01180525/19/24/26980c2f4b0aad2b066df7f09a0590aa.jpg', '2010年', '4.83万', '9.80万')
+('华泰宝利格 2013款 1.8T 自动两驱智尊版', 'https://image1.guazistatic.com/qn180228235648385ccb6741ff68d437fd15733e5d68d0.jpg', '9.9万公里', '5.60万', '16.10万')
+('华泰 圣达菲经典 2012款 2.0L 汽油手动两驱舒适型', 'https://image1.guazistatic.com/qn1807060457183c39729235f057188a5c0e1cd35441df.jpg', '2016年', '3.00万', '8.70万')

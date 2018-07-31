@@ -1,0 +1,3 @@
+('北汽新能源EU系列 2016款 EU260 乐途plus版', 'https://image.guazistatic.com/gz01180428/16/55/654a66f87dc39beed5092b742950dfcf.jpg', '2016年', '7.00万', '26.00万')
+('北汽新能源 EU系列 2016款 EU260 乐途plus版', 'https://image1.guazistatic.com/qn18070520510956e86b1c3d1dd7231078a41644e56041.jpg', '7.3万公里', '9.00万', '26.00万')
+('北汽新能源 EC系列 2017款 EC180 灵秀版', 'https://image1.guazistatic.com/qn180708183220971ede61acd2b9cff6b96fec66cc54ea.jpg', '2017年', '5.00万', '17.10万')

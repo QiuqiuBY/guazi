@@ -1,0 +1,3 @@
+('汉腾X7 2016款 1.5T 手动尊享型', 'https://image.guazistatic.com/gz01180606/14/53/1db1ff8cbd949ecbfe54da07ffab9c94.jpg', '2017年', '6.50万', '10.80万')
+('汉腾X7 2016款 2.0T DCT尊享型', 'https://image.guazistatic.com/gz01180623/17/21/a0ab266069fbe98ccd77422350a49dd5.jpg', '3.1万公里', '9.50万', '14.10万')
+('汉腾X7 2016款 1.5T 手动尊享型', 'https://image.guazistatic.com/gz01180410/08/17/452a0915294d8a65b535f9e7ec2a497c.jpg', '2017年', '7.00万', '10.80万')

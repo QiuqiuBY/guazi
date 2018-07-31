@@ -1,0 +1,6 @@
+('宾利 慕尚 2011款 6.8T 尊贵版', 'https://image.guazistatic.com/gz01180620/14/11/a1dda302af334863ad5bd12906b185a7.jpg', '2012年', '198.00万', '616.50万')
+('宾利 飞驰 2014款 4.0T V8 标准版', 'https://image.guazistatic.com/gz01180626/15/57/cc69ad613cdea92249cf29f4fdb18876.jpg', '14.6万公里', '180.00万', '347.10万')
+('宾利慕尚 2011款 6.8T 尊贵版', 'https://image1.guazistatic.com/qn180516001023b3e6498248fec78758e8e079f3c13bf9.jpg', '2015年', '270.00万', '616.50万')
+('宾利 飞驰 2014款 4.0T V8 尊贵版', 'https://image.guazistatic.com/gz01180629/11/21/b36d90f7f13a78488d1b8719b6e67275.jpg', '4.5万公里', '228.00万', '364.50万')
+('宾利欧陆 2010款 Supersports 6.0', 'https://image1.guazistatic.com/qn18071215202512cd374ba66e1afbba6149051bd5d2ea.jpg', '2011年', '260.00万', '540.60万')
+('宾利欧陆 2012款 4.0T GT V8', 'https://image1.guazistatic.com/qn1803061159198832602803839df7065129d7f7930392.jpg', '3.5万公里', '165.00万', '330.90万')

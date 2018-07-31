@@ -1,0 +1,2 @@
+('昌河M70 2017款 1.5L 手动航空舱', 'https://image.guazistatic.com/gz01180520/11/12/3c20b99e04a4965c324bd23358bd55d9.jpg', '2018年', '5.00万', '7.00万')
+('昌河M50 2015款 1.5L改款商务舱（板簧）DAM15DL', 'https://image1.guazistatic.com/qn1806062301097ebd51ac5b102ece3e3607b3abef176b.jpg', '1.8万公里', '1.80万', '5.10万')

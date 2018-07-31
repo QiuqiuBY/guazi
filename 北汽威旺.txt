@@ -1,0 +1,8 @@
+('北汽威旺M20 2014款 1.5L 舒适型BJ415B', 'https://image1.guazistatic.com/qn1804280031395586d447a3fa11215fadf053dbe7dfdf.jpg', '2015年', '2.60万', '5.60万')
+('北汽威旺M30 2015款 1.5L 基本型BJ415B', 'https://image1.guazistatic.com/qn180705143654ef8f4865b5e55231ae525092f00d20a8.jpg', '3.5万公里', '2.70万', '4.90万')
+('北汽威旺M30 2015款 1.5L 舒适型BJ415B', 'https://image1.guazistatic.com/qn180705142340f49d46af3ca7589aa10f3ed539b05056.jpg', '2017年', '2.30万', '5.20万')
+('北汽威旺M20 2014款 1.5L 舒适型BJ415B', 'https://image.guazistatic.com/gz01180625/13/42/386c87670ed95f7ce6743c02dbe80cdb.jpg', '1.5万公里', '2.10万', '5.60万')
+('北汽威旺306 2011款 1.3L基本型7座', 'https://image1.guazistatic.com/qn171102135409bffe40080bdfebc7d25bb82f89070e36.jpg', '2015年', '2.20万', '4.00万')
+('北汽威旺306 2013款 1.2L超值版 基本型7座A12国IV', 'https://image1.guazistatic.com/qn18051117363339f83fca606e0179f47492ca005122fd.jpg', '9.4万公里', '1.70万', '4.10万')
+('北汽威旺306 2011款 1.3L舒适型7座', 'https://image1.guazistatic.com/qn180705102242e3dce2017fd276a8060ebe51396f8bf0.jpg', '2015年', '1.50万', '4.40万')
+('北汽威旺306 2011款 1.3L基本型7座', 'https://image1.guazistatic.com/qn17100917004405aa72e3ec27bb7c282d1511166ae741.jpg', '10.8万公里', '1.58万', '4.00万')

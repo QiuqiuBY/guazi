@@ -1,0 +1,6 @@
+('特斯拉MODEL S 2016款 MODEL S 75', 'https://image.guazistatic.com/gz01180629/14/32/cf4a09b0f38edafb0338704475043ab4.jpg', '2016年', '65.00万', '83.80万')
+('特斯拉MODEL S 2014款 MODEL S 85', 'https://image.guazistatic.com/gz01180605/09/58/bb6b605d866cb8dba06386a697bff112.jpg', '0.9万公里', '45.00万', '79.70万')
+('特斯拉MODEL S 2016款 MODEL S 75D', 'https://image.guazistatic.com/gz01180621/15/44/d41893c7a1583d427625718a150d3a04.jpg', '2015年', '68.00万', '89.10万')
+('特斯拉Model X 2016款 MODEL X 90D', 'https://image1.guazistatic.com/qn1806031623596660acb46accaae3210a444bf48e7930.jpg', '13.1万公里', '79.80万', '106.90万')
+('特斯拉Model X 2017款 Model X 100D', 'https://image.guazistatic.com/gz01180607/10/18/dd604c5c3e9ee45ec168fb95bc8be03c.jpg', '2016年', '94.00万', '100.50万')
+('特斯拉Model X 2016款 MODEL X 75D', 'https://image.guazistatic.com/gz01180430/09/25/40fa1ce74f1585ffdc1ab12ee80b960c.jpg', '2.2万公里', '84.98万', '125.20万')
